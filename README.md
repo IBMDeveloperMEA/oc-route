@@ -6,6 +6,8 @@ In this tutorial, you will learn how to create 3 types of routes for your applic
 For this tutorial you will need:
 - Sign up for your IBM Cloud account – 
 - Red Hat OpenShift Cluster 4 on IBM Cloud.
+  - URL: https://oc-route.mybluemix.net
+  - Key: oslab
 - oc CLI (can be downloaded from this link or you can use it at http://shell.cloud.ibm.com/.
 ## Estimated Time
 It will take you around 30 minutes to complete this tutorial.
