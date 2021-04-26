@@ -4,7 +4,7 @@ In OpenShift, there are different types of routes in which you can expose your a
 In this tutorial, you will learn how to create 3 types of routes for your applications: clear, edge and passthrough and you will learn the difference in creating each type of route.
 ## Prerequisites
 For this tutorial you will need:
-- Sign up for your IBM Cloud account – 
+- Sign up for your IBM Cloud account – https://ibm.biz/BdfYWW 
 - Red Hat OpenShift Cluster 4 on IBM Cloud.
   - URL: https://oc-route.mybluemix.net
   - Key: oslab
