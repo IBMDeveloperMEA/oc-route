@@ -1,7 +1,7 @@
 # oc-route
 ## Introduction
 In OpenShift, there are different types of routes in which you can expose your applications, which are: clear, edge, re-encrypt, pass-through. The clear route is insecure and doesn't require any certifications, as for the rest of the routes, they are encrypted on different levels and require certificates.
-In this tutorial, you will learn how to create 3 types of routes for your applications: clear, edge and passthroug and you will learn the difference in creating each type of route.
+In this tutorial, you will learn how to create 3 types of routes for your applications: clear, edge and passthrough and you will learn the difference in creating each type of route.
 ## Prerequisites
 For this tutorial you will need:
 - Sign up for your IBM Cloud account – 
